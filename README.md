@@ -7,5 +7,5 @@
 https://github.com/Niyostiven/markdown-guide
 
 <niyostiven@gmail.com>
-[niyoyita]
+[niyoyita](https://github.com/Niyostiven/computer-skills/edit/main/README.md)
 
